@@ -1,0 +1,6 @@
+.elementor-widget-button .elementor-button {
+  -webkit-clip-path: polygon(0 0, 100% 0, 100% calc(100% - 16px), calc(100% - 16px) 100%, 0% 100%);
+          clip-path: polygon(0 0, 100% 0, 100% calc(100% - 16px), calc(100% - 16px) 100%, 0% 100%);
+}
+
+/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbImJ1dHRvbnMuc2NzcyIsImJ1dHRvbnMuY3NzIl0sIm5hbWVzIjpbXSwibWFwcGluZ3MiOiJBQUNJO0VBQ0ksZ0dBQUE7VUFBQSx3RkFBQTtBQ0FSIiwiZmlsZSI6ImJ1dHRvbnMuY3NzIn0= */

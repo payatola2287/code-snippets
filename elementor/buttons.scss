@@ -1,0 +1,6 @@
+// slit the bottom right part of the button
+.elementor-widget-button{
+    .elementor-button{
+        clip-path: polygon(0 0, 100% 0, 100% calc(100% - 16px), calc(100% - 16px) 100%, 0% 100%);
+    }
+}
