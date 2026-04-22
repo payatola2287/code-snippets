@@ -7,7 +7,8 @@ Visit Beaver builder's [hooks site](https://hooks.wpbeaverbuilder.com/) to verif
 ### Adding fetchpriority and loading=eager to Photo Module of beaver builder
 You need to add `critical` css class to the module first.
 
-``` functions.php
+`functions.php`
+```php
 /**
  * Use the module content filter to perform a safe string replacement
  */
